@@ -1,2 +1,1 @@
-# learning-apollo-graphql
-Apollo GraphQL
+# Learning Apollo GraphQL Client
